@@ -1,7 +1,5 @@
 # 💫 About Me
 
-I'm **Muhammad Mahad Bashir** 👋  
-
 🎓 I’m a **Software Engineering student** with a strong foundation in core computer science and software development principles. My studies and projects have helped me develop solid problem-solving skills and a deep understanding of how software systems are designed, built, and maintained.
 
 💻 I enjoy building **full-stack web applications**, primarily using the **MERN stack (MongoDB, Express, React, Node.js)**. I’m particularly interested in **backend development**, where I focus on designing secure APIs, implementing authentication systems, and building scalable server-side architectures.
