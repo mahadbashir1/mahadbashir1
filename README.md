@@ -2,15 +2,13 @@
 
 I'm **Muhammad Mahad Bashir** 👋  
 
-🎓 I’m a **Software Engineering student** with a strong foundation in both **core computer science concepts and modern software development**. Through my academic studies and projects, I’ve developed a solid understanding of programming, data structures, algorithms, databases, operating systems, and computer networks.
+🎓 I’m a **Software Engineering student** with a strong foundation in core computer science and software development principles. My studies and projects have helped me develop solid problem-solving skills and a deep understanding of how software systems are designed, built, and maintained.
 
-💻 I enjoy building **full-stack web applications**, primarily using the **MERN stack (MongoDB, Express, React, Node.js)**. My main interest lies in **backend development**, where I focus on designing secure APIs, implementing authentication systems, and building scalable server-side applications.
+💻 I enjoy building **full-stack web applications**, primarily using the **MERN stack (MongoDB, Express, React, Node.js)**. I’m particularly interested in **backend development**, where I focus on designing secure APIs, implementing authentication systems, and building scalable server-side architectures.
 
-🧠 My studies have also introduced me to important **software engineering practices** such as requirements analysis, software design and architecture, quality assurance, and project management. These help me approach development not just as coding, but as a **structured engineering process**.
+🧠 Along the way, I’ve gained experience working with concepts such as **efficient data handling, algorithmic problem solving, database design, system processes, and network communication**, which help me understand how software works from both a **theoretical and practical perspective**.
 
-🤖 In addition, I have explored areas like **Artificial Intelligence and Data Science**, which have helped me understand how data-driven techniques and intelligent systems can be integrated into modern software solutions.
-
-🚀 I’m passionate about **learning new technologies, solving complex problems, and building practical projects** that strengthen my skills as a developer. My goal is to continue growing as a **software engineer who builds reliable, efficient, and well-designed systems**.
+🚀 I’m passionate about **learning new technologies, building practical projects, and continuously improving my development skills**. My goal is to grow into a software engineer who builds **reliable, efficient, and well-designed systems**.
 
 
 ## 🌐 Socials:
