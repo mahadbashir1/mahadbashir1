@@ -16,13 +16,11 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ29yeWtoZzR6Z3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3YmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" alt="Tech GIF" />
     </td>
     <td width="60%">
-      <ul>
-        <li>🎓 I’m a <strong>Software Engineering student</strong> with a strong foundation in core computer science and problem-solving.</li>
-        <li>💻 I love building <strong>full-stack web applications</strong>, specializing primarily in the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).</li>
-        <li>⚙️ I have a deep interest in <strong>backend development</strong>—focusing on designing secure APIs, implementing authentication, and building scalable architectures.</li>
-        <li>🧠 I'm experienced with efficient data handling, algorithmic problem solving, database design, and network communication.</li>
-        <li>🚀 I’m passionate about learning new technologies and building <strong>reliable, efficient, and well-designed systems</strong>.</li>
-      </ul>
+      <p>🎓 I’m a <strong>Software Engineering student</strong> with a strong foundation in core computer science and problem-solving.</p>
+      <p>💻 I love building <strong>full-stack web applications</strong>, specializing primarily in the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).</p>
+      <p>⚙️ I have a deep interest in <strong>backend development</strong>—focusing on designing secure APIs, implementing authentication, and building scalable architectures.</p>
+      <p>🧠 I'm experienced with efficient data handling, algorithmic problem solving, database design, and network communication.</p>
+      <p>🚀 I’m passionate about learning new technologies and building <strong>reliable, efficient, and well-designed systems</strong>.</p>
     </td>
   </tr>
 </table>
