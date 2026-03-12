@@ -1,16 +1,33 @@
-# 💫 About Me
+<div align="center">
+  <h1>Hi, I'm Muhammad Mahad Bashir 👋</h1>
+  <p><b>Software Engineering Student | Full-Stack Developer | Backend Enthusiast</b></p>
+  
+  <a href="https://linkedin.com/in/muhammadmahadbashir"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="mailto:mmahadbashir.01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
+</div>
 
-🎓 I’m a **Software Engineering student** with a strong foundation in core computer science and software development principles. My studies and projects have helped me develop solid problem-solving skills and a deep understanding of how software systems are designed, built, and maintained.
+---
 
-💻 I enjoy building **full-stack web applications**, primarily using the **MERN stack (MongoDB, Express, React, Node.js)**. I’m particularly interested in **backend development**, where I focus on designing secure APIs, implementing authentication systems, and building scalable server-side architectures.
+## 👨‍💻 About Me
 
-🧠 Along the way, I’ve gained experience working with concepts such as **efficient data handling, algorithmic problem solving, database design, system processes, and network communication**, which help me understand how software works from both a **theoretical and practical perspective**.
+<table align="center">
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ29yeWtoZzR6Z3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3YmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="90%" alt="Tech GIF" />
+    </td>
+    <td width="60%">
+      <ul>
+        <li>🎓 I’m a <strong>Software Engineering student</strong> with a strong foundation in core computer science and problem-solving.</li>
+        <li>💻 I love building <strong>full-stack web applications</strong>, specializing primarily in the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).</li>
+        <li>⚙️ I have a deep interest in <strong>backend development</strong>—focusing on designing secure APIs, implementing authentication, and building scalable architectures.</li>
+        <li>🧠 I'm experienced with efficient data handling, algorithmic problem solving, database design, and network communication.</li>
+        <li>🚀 I’m passionate about learning new technologies and building <strong>reliable, efficient, and well-designed systems</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-🚀 I’m passionate about **learning new technologies, building practical projects, and continuously improving my development skills**. My goal is to grow into a software engineer who builds **reliable, efficient, and well-designed systems**.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmahadbashir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmahadbashir.01@gmail.com) 
+---
 
 # 💻 Tech Stack
 
@@ -34,3 +51,16 @@
 
 ### 🛠️ Tools & Testing
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" width="100%" />
