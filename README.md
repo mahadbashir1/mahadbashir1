@@ -11,7 +11,7 @@
 <table align="center">
   <tr>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ29yeWtoZzR6Z3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3ZqZ3YmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Tech GIF" />
+      <img src="" width="100%" alt="Tech GIF" />
     </td>
     <td width="60%">
       <p>🎓 I’m a <strong>Software Engineering student</strong> with a strong foundation in core computer science and problem-solving.</p>
