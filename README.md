@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=150&section=header" width="100%" />
-
 <div align="center">
   <h1>Hi, I'm Muhammad Mahad Bashir 👋</h1>
   <p><b>Software Engineering Student | Full-Stack Developer | Backend Enthusiast</b></p>
@@ -7,8 +5,6 @@
   <a href="https://linkedin.com/in/muhammadmahadbashir"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="mailto:mmahadbashir.01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
